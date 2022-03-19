@@ -5,7 +5,7 @@ class BinarySearchTree {
     static Node nodes[];
     static Tree tree;
 
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         String input;
         int inputInts[] = null;
         boolean validInput;
